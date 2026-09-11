@@ -1,7 +1,7 @@
 # Windows Forensics 1
 
 **Category:** TryHackMe
-**Difficulty:** Easy
+**Difficulty:** Medium
 **Date:** 2026-09-11
 **Tags:** windows-registry, registry-explorer, eztools, userassist, usbstor, dfir
 
