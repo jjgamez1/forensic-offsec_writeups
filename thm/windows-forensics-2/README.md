@@ -209,3 +209,5 @@ Part 1 identified USB devices through the registry. This task adds **`C:\Windows
 - **Each execution artifact answers a different question.** Prefetch gives run counts and last run times. The Windows 10 Timeline gives focus time. Jump Lists tell you which application opened a file.
 - **`########` in EZViewer just means the column is too narrow.** Widen it before assuming the data is missing.
 - **Deleted doesn't mean gone.** Until the space is overwritten, tools like Autopsy can recover the file from unallocated space, contents included.
+
+  ## Sweeeeet
