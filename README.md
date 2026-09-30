@@ -11,6 +11,7 @@ _No writeups yet._
 ## TryHackMe
 
 - [Windows Forensics 1](thm/windows-forensics-1/README.md)
+- [Windows Forensics 2](thm/windows-forensics-2/README.md)
 
 ## CTF
 
