@@ -17,7 +17,7 @@ _No writeups yet._
 
 ## CTF
 
-_No writeups yet._
+- [Huntress CTF 2026: Day 1](ctf/huntress-ctf-2026/day-01/README.md)
 
 ## Forensics
 
