@@ -1,7 +1,9 @@
 # Huntress CTF 2026: Day 1
 
+[Overview](../README.md) · [Day 2 →](../day-02/README.md)
+
 **Category:** CTF
-**Event:** [Huntress CTF 2026](https://ctf.huntress.com) (runs through October)
+**Event:** [Huntress CTF 2026](https://ctf.huntress.com) (final result: 185th of 1,602)
 **Date:** 2026-10-07
 **Tags:** huntress-ctf, ai-assisted, automation, base64, hashing, powershell, mitre-attack, android, elf, reverse-engineering
 

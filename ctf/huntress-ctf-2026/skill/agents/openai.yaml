@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huntress CTF Solver"
+  short_description: "Run challenges with supervised solving and offline review gates"
+  default_prompt: "Use $huntress-ctf-solver to run a named challenge or the next incomplete challenge."

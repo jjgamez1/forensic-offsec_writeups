@@ -17,7 +17,7 @@ _No writeups yet._
 
 ## CTF
 
-- [Huntress CTF 2026: Day 1](ctf/huntress-ctf-2026/day-01/README.md)
+- [Huntress CTF 2026](ctf/huntress-ctf-2026/README.md): 185th of 1,602, with an AI agent I built to run the challenge loop
 
 ## Forensics
 

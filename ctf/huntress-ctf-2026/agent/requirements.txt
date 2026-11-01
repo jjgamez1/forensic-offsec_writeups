@@ -1,0 +1,6 @@
+# Python packages used by the Power Play AES ZIP solver.
+pyzipper==0.4.0
+pycryptodomex==3.24.0
+
+# System package required by elf_analyzer.py:
+# binutils provides readelf, objdump, and objcopy.
