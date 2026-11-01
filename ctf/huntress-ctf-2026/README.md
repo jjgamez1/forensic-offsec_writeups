@@ -37,7 +37,7 @@ The safety rules mattered as much as the loop:
 
 I built it in stages with a checkpoint after each one, from a shared client up to a fresh-session test where a new chat had nothing but the skill to go on. Supervised runs came first, and the agent only went autonomous once those looked right.
 
-The code is in [`agent/`](agent/), and the reusable skill is in [`skill/`](skill/). It's a snapshot from October 28, so the last run's additions (the Brainfuck/Ook! decoder and per-field routing) aren't in it. It won't run as-is: it depends on the event's Game Master, and I left out the live web-target collector and its solver because they were only useful against the event's own targets.
+The build brief I gave the AI is in [`agent-prompt.md`](agent-prompt.md). The code is in [`agent/`](agent/), and the reusable skill is in [`skill/`](skill/). It's a snapshot from October 28, so the last run's additions (the Brainfuck/Ook! decoder and per-field routing) aren't in it. It won't run as-is: it depends on the event's Game Master, and I left out the live web-target collector and its solver because they were only useful against the event's own targets.
 
 ## What I learned
 
