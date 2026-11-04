@@ -1,8 +1,17 @@
 # Huntress CTF 2026
 
-**Result: 185th of 1,602, with 585 points.** This was my first CTF.
+**Result: 185th of 1,602 teams, with 585 points.** This was my first CTF.
 
-[Completion certificate](https://ctf.huntress.com/completion/5c55a363663f050e) (at the time of writing the organizers' certificates were still generic, so it doesn't show a placement)
+From my [completion certificate](https://ctf.huntress.com/completion/5c55a363663f050e):
+
+| | |
+|---|---|
+| Placement | 185th of 1,602 teams (2,304 players) |
+| Points | 585 |
+| Challenges solved | 176 of 561 |
+| Model turns | 4,691 |
+| Tokens used | 621.77 million |
+| Model | GPT-6 Luna (100% of turns) |
 
 ![Scoreboard showing 185th place](images/scoreboard.png)
 
